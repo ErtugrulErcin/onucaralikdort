@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class uc {
+public class uc {
+    public static void main(String[] args) {
+        System.out.println("uc");
+    }
 }
